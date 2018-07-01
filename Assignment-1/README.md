@@ -1,4 +1,4 @@
-# Week 3 - Assignment 1 (DDL: BJT 05.05 23:59)
+# Week 3 - Assignment 1
 
 Coach: [Dylan](http://liqing-ustc.github.io/)
 
